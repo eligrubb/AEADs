@@ -28,6 +28,7 @@ crate.
 | [`deoxys`]           | [Deoxys-I/II]                | [![crates.io](https://img.shields.io/crates/v/deoxys.svg)](https://crates.io/crates/deoxys) | [![Documentation](https://docs.rs/deoxys/badge.svg)](https://docs.rs/deoxys) | 1.85 |
 | [`eax`]              | [EAX]                        | [![crates.io](https://img.shields.io/crates/v/eax.svg)](https://crates.io/crates/eax) | [![Documentation](https://docs.rs/eax/badge.svg)](https://docs.rs/eax) | 1.85 |
 | [`mgm`]              | [MGM]                        | [![crates.io](https://img.shields.io/crates/v/mgm.svg)](https://crates.io/crates/mgm) | [![Documentation](https://docs.rs/mgm/badge.svg)](https://docs.rs/mgm) | 1.85 |
+| [`xaes-256-gcm`]     | [XAES-256-GCM]               | [![crates.io](https://img.shields.io/crates/v/xaes-256-gcm.svg)](https://crates.io/crates/xaes-256-gcm) | [![Documentation](https://docs.rs/xaes-256-gcm/badge.svg)](https://docs.rs/xaes-256-gcm/) | 1.85 |
 
 ## License
 
@@ -70,6 +71,7 @@ dual licensed as above, without any additional terms or conditions.
 [`deoxys`]: https://github.com/RustCrypto/AEADs/tree/master/deoxys
 [`eax`]: https://github.com/RustCrypto/AEADs/tree/master/eax
 [`mgm`]: https://github.com/RustCrypto/AEADs/tree/master/mgm
+[`xaes-256-gcm`]: https://github.com/RustCrypto/AEADs/tree/master/xaes-256-gcm
 
 [//]: # (algorithms)
 
@@ -83,3 +85,4 @@ dual licensed as above, without any additional terms or conditions.
 [EAX]: https://en.wikipedia.org/wiki/EAX_mode
 [MGM]: https://eprint.iacr.org/2019/123.pdf
 [(X)ChaCha20Poly1305]: https://tools.ietf.org/html/rfc8439
+[XAES-256-GCM]: https://c2sp.org/XAES-256-GCM
